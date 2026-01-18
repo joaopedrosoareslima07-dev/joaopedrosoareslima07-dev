@@ -1,4 +1,9 @@
-## Hi there 👋
+# 👋 Olá, eu sou o João Pedro
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+## 🎯 Objetivo
+Construir uma base sólida em programação e evoluir constantemente.
+
 
 <!--
 **joaopedrosoareslima07-dev/joaopedrosoareslima07-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
